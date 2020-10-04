@@ -1,4 +1,4 @@
-# csv-import-in-laravel-with-array-and-custom-text-field
+# csv-import-in-laravel-with-array
 
 		
 If You want to insert Data in your database from an excel file with Text,select,number field then you can try this. 
